@@ -1,0 +1,7 @@
+.toolbar {
+    -fx-alignment: center;
+    
+}
+.button{
+    -fx-margin : 10px;
+}
